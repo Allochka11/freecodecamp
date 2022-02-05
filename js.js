@@ -8,3 +8,7 @@ let c = 12;
 a += 12;
 b += 9;
 c += 7;
+
+// Only change code below this line
+const myName = "Alla";
+const myStr = "My name is " + myName + " and I am well!";
