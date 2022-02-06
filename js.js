@@ -15,21 +15,22 @@ const myStr = "My name is " + myName + " and I am well!";
 
 // Setup
 let firstLetterOfLastName = "";
-const lastName = "Lovelace";
+const lastName0 = "Lovelace";
 
 // Only change code below this line
-firstLetterOfLastName = lastName[0]; // Change this line
+firstLetterOfLastName = lastName0[0]; // Change this line
 
 // Setup
-let myStr = "Jello World";
+let myStr2 = "Jello World";
 
 // Only change code below this line
-myStr = "Hello World"; // Change this line
+myStr2 = "Hello World"; // Change this line
 // Only change code above this line
 
 
-// Setup
-const lastName = "Lovelace";
 
-// Only change code below this line
-const thirdLetterOfLastName = lastName[2]; // Change this line
+const lastName1 = "Lovelace";
+const thirdLetterOfLastName = lastName1[2];
+
+const lastName2 = "Lovelace";
+const lastLetterOfLastName = lastName2[lastName2.length - 1];
