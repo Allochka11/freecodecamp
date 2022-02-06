@@ -12,3 +12,10 @@ c += 7;
 // Only change code below this line
 const myName = "Alla";
 const myStr = "My name is " + myName + " and I am well!";
+
+// Setup
+let firstLetterOfLastName = "";
+const lastName = "Lovelace";
+
+// Only change code below this line
+firstLetterOfLastName = lastName[0]; // Change this line
